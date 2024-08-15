@@ -12,7 +12,6 @@ class helpmeineedsleep
     int n;
     System.out.println("enter input");
     String inp= in.nextInt();
-    int inpu=0;
     int i,j,k=0,w=0;
     // i and j are loop variables while k and w are flag variable
     for(i=0;i<inp.length();i++)
